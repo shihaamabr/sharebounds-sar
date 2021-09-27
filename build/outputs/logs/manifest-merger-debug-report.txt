@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.support:design:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ae9dd9dd169132877df38a7c6e53dbf6/design-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/739f9ffa045c02f906229ed2054ef4f7/preference-v14-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/766b58950dc49bb20382f8c53f065295/preference-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/707c36f1927ab33d1e8baa4aff94a730/play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6a18c309289114a5a87e0e64a7ff8a94/play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/36f9b8204c7bc2d7f86755298fb57b6a/play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/f9cfab84c4e84552ffe9c61b2d975a4e/support-v4-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9fd256e3119e84affc91e184b8c71fbf/appcompat-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/3ffcdae2dfef275f810dbb8793e1b8ea/constraint-layout-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/604d50be9ffaeb4d393d5a1ca3e59403/recyclerview-v7-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9250ba34dcf4af25078ee83f142f4cf5/transition-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7105bfaac9393dee2e6ad415ebf60e62/support-media-compat-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/1cddee9ba104853dcfc61170cce4dbb1/support-fragment-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ca43822968af8d27106c3348cbd5e34a/animated-vector-drawable-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/77d5913726d3fdf9eb990c9bcf947e0b/support-core-ui-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/cea063b737225622296c7df0a02863f1/support-core-utils-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7282fb5a4280d419d46c0220c8f0b010/support-vector-drawable-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/21743890f471e2ca51f540369e7f29dd/support-compat-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/29d920f5ae47ce0a58fdc67e79fc278a/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/490b7f40c44b1d995dbce5572e37d641/play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-oss-licenses-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2f9fa5f4b221903622b63a3a72da94ac/play-services-oss-licenses-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/28c6f4d49552048794242218ca7ea764/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6960438d362ac568ef1ac7b92896d7a9/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/15c1a8f34b7035993f8e16172bdd50de/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6e21809ff4d07d7cfacf40bd9a8353c1/play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/a3078e653b09451607273a8ded16c688/play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/dcb9c21cbe74c6019dd96f2e5fb4e39c/play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6b593643883d35fe199e580f91450b2d/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/92c0a2a028ea8085524d1da152f801f4/play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:6:22-77
+uses-feature#android.hardware.camera
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:7:5-84
+	android:required
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:8:5-94
+	android:required
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:8:68-92
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:8:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:9:5-90
+	android:required
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:9:64-88
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:9:19-63
+supports-screens
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:11:5-15:48
+	android:largeScreens
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:11:23-51
+	android:requiresSmallestWidthDp
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:15:9-46
+	android:normalScreens
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:12:9-37
+	android:xlargeScreens
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:14:9-37
+application
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:17:5-75:19
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/707c36f1927ab33d1e8baa4aff94a730/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/707c36f1927ab33d1e8baa4aff94a730/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6a18c309289114a5a87e0e64a7ff8a94/play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6a18c309289114a5a87e0e64a7ff8a94/play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/36f9b8204c7bc2d7f86755298fb57b6a/play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/36f9b8204c7bc2d7f86755298fb57b6a/play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/3ffcdae2dfef275f810dbb8793e1b8ea/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/3ffcdae2dfef275f810dbb8793e1b8ea/constraint-layout-1.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/490b7f40c44b1d995dbce5572e37d641/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/490b7f40c44b1d995dbce5572e37d641/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-oss-licenses-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2f9fa5f4b221903622b63a3a72da94ac/play-services-oss-licenses-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-oss-licenses-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2f9fa5f4b221903622b63a3a72da94ac/play-services-oss-licenses-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6e21809ff4d07d7cfacf40bd9a8353c1/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6e21809ff4d07d7cfacf40bd9a8353c1/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/a3078e653b09451607273a8ded16c688/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/a3078e653b09451607273a8ded16c688/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/dcb9c21cbe74c6019dd96f2e5fb4e39c/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/dcb9c21cbe74c6019dd96f2e5fb4e39c/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/92c0a2a028ea8085524d1da152f801f4/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/92c0a2a028ea8085524d1da152f801f4/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:21:9-41
+	android:hardwareAccelerated
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:19:9-43
+	android:supportsPictureInPicture
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:25:9-49
+	android:resizeableActivity
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:24:9-43
+	android:roundIcon
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:23:9-40
+meta-data#com.google.android.gms.version
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:26:9-28:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:27:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:29:9-31:35
+	android:value
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:31:13-32
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:30:13-70
+activity#com.sharebounds.sharebounds.main.MainActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:33:9-39:20
+	android:screenOrientation
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:37:13-74
+	android:theme
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:34:13-46
+activity#com.sharebounds.sharebounds.main.PrivTouActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:41:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:47:27-74
+activity#com.sharebounds.sharebounds.main.TextActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:52:13-56
+	android:windowSoftInputMode
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:53:13-55
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:51:13-46
+activity#com.sharebounds.sharebounds.main.SettingsActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:56:13-50
+activity#com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:60:9-61:76
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:23:9-25:57
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:23:9-25:57
+	android:label
+		ADDED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:25:13-54
+	android:theme
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:60:19-93
+activity#com.google.android.gms.oss.licenses.OssLicensesActivity
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:63:9-64:76
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:26:9-92
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:26:9-92
+	android:theme
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:63:19-89
+service#com.sharebounds.sharebounds.keyboard.CameraIME
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:66:9-74:19
+	android:label
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:67:13-45
+	android:permission
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:68:13-70
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:66:18-52
+intent-filter#action:name:android.view.InputMethod
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:69:13-71:29
+action#android.view.InputMethod
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:70:17-67
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:70:25-64
+meta-data#android.view.im
+ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:72:13-73:50
+	android:resource
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:73:17-47
+	android:name
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml:72:24-54
+uses-sdk
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ae9dd9dd169132877df38a7c6e53dbf6/design-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ae9dd9dd169132877df38a7c6e53dbf6/design-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/739f9ffa045c02f906229ed2054ef4f7/preference-v14-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/739f9ffa045c02f906229ed2054ef4f7/preference-v14-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/766b58950dc49bb20382f8c53f065295/preference-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/766b58950dc49bb20382f8c53f065295/preference-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/707c36f1927ab33d1e8baa4aff94a730/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/707c36f1927ab33d1e8baa4aff94a730/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/66e1c92ed9afa9e0ab9ce47efebdc77c/play-services-oss-licenses-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6a18c309289114a5a87e0e64a7ff8a94/play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6a18c309289114a5a87e0e64a7ff8a94/play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/36f9b8204c7bc2d7f86755298fb57b6a/play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/36f9b8204c7bc2d7f86755298fb57b6a/play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2c97eea7edf6ed9f77fbfff751d37cba/play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/f9cfab84c4e84552ffe9c61b2d975a4e/support-v4-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/f9cfab84c4e84552ffe9c61b2d975a4e/support-v4-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9fd256e3119e84affc91e184b8c71fbf/appcompat-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9fd256e3119e84affc91e184b8c71fbf/appcompat-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/3ffcdae2dfef275f810dbb8793e1b8ea/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/3ffcdae2dfef275f810dbb8793e1b8ea/constraint-layout-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/604d50be9ffaeb4d393d5a1ca3e59403/recyclerview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/604d50be9ffaeb4d393d5a1ca3e59403/recyclerview-v7-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9250ba34dcf4af25078ee83f142f4cf5/transition-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/9250ba34dcf4af25078ee83f142f4cf5/transition-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7105bfaac9393dee2e6ad415ebf60e62/support-media-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7105bfaac9393dee2e6ad415ebf60e62/support-media-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/1cddee9ba104853dcfc61170cce4dbb1/support-fragment-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/1cddee9ba104853dcfc61170cce4dbb1/support-fragment-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ca43822968af8d27106c3348cbd5e34a/animated-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/ca43822968af8d27106c3348cbd5e34a/animated-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/77d5913726d3fdf9eb990c9bcf947e0b/support-core-ui-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/77d5913726d3fdf9eb990c9bcf947e0b/support-core-ui-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/cea063b737225622296c7df0a02863f1/support-core-utils-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/cea063b737225622296c7df0a02863f1/support-core-utils-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7282fb5a4280d419d46c0220c8f0b010/support-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/7282fb5a4280d419d46c0220c8f0b010/support-vector-drawable-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/21743890f471e2ca51f540369e7f29dd/support-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/21743890f471e2ca51f540369e7f29dd/support-compat-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/29d920f5ae47ce0a58fdc67e79fc278a/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/29d920f5ae47ce0a58fdc67e79fc278a/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/490b7f40c44b1d995dbce5572e37d641/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/490b7f40c44b1d995dbce5572e37d641/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2f9fa5f4b221903622b63a3a72da94ac/play-services-oss-licenses-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-oss-licenses-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/2f9fa5f4b221903622b63a3a72da94ac/play-services-oss-licenses-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/28c6f4d49552048794242218ca7ea764/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/28c6f4d49552048794242218ca7ea764/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6960438d362ac568ef1ac7b92896d7a9/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6960438d362ac568ef1ac7b92896d7a9/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/15c1a8f34b7035993f8e16172bdd50de/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/15c1a8f34b7035993f8e16172bdd50de/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6e21809ff4d07d7cfacf40bd9a8353c1/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6e21809ff4d07d7cfacf40bd9a8353c1/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/a3078e653b09451607273a8ded16c688/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/a3078e653b09451607273a8ded16c688/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/dcb9c21cbe74c6019dd96f2e5fb4e39c/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/dcb9c21cbe74c6019dd96f2e5fb4e39c/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6b593643883d35fe199e580f91450b2d/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/6b593643883d35fe199e580f91450b2d/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/92c0a2a028ea8085524d1da152f801f4/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/92c0a2a028ea8085524d1da152f801f4/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		ADDED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+		INJECTED from /mnt/sdc/sharebounds-sar/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/da4a38f5767584e45cf3e38da8b8a6dd/play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/sweezbot/.gradle/caches/transforms-2/files-2.1/79f265a5bb6a45765e9c4db7436a8a78/picasso-2.71828/AndroidManifest.xml:9:13-64
